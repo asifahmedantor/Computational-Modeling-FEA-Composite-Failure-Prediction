@@ -1,0 +1,5 @@
+Parameter,Value,Unit
+Distributed load,1000.000000,N/m
+Root moment,5.000000,N*m
+Approximate bending rigidity,2.43288591,N*m^2
+Estimated tip deflection,5.137931,mm
