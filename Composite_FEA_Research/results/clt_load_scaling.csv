@@ -1,6 +1,0 @@
-load_factor,max_stress_failure_index,note
-0.5,0.0016400818137456779,CLT in-plane Nx=1000 N/m baseline; illustrative strengths
-1.0,0.0032801636274913558,CLT in-plane Nx=1000 N/m baseline; illustrative strengths
-2.0,0.0065603272549827115,CLT in-plane Nx=1000 N/m baseline; illustrative strengths
-5.0,0.01640081813745678,CLT in-plane Nx=1000 N/m baseline; illustrative strengths
-10.0,0.03280163627491356,CLT in-plane Nx=1000 N/m baseline; illustrative strengths

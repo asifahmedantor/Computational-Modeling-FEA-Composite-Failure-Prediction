@@ -1,4 +1,0 @@
-layup,frd_bytes,displacement_records,max_displacement_mm,displacement_node,stress_records,max_calculated_von_mises_MPa,stress_record_node,max_absolute_SXX_MPa,SXX_record_node,solver_status
-layup_0_45_m45_90,5815133,15308,11.427624794999668,26128,15308,535.1207022079602,25165,374.775,25157,STA exists
-layup_balanced_45,5815133,15308,15.80052330425352,2597,15308,761.3448309523485,1648,397.618,1648,STA exists
-layup_symmetric_0090,5815133,15308,3.1353362145532335,14357,15308,165.93328742496396,13397,172.286,13397,STA exists

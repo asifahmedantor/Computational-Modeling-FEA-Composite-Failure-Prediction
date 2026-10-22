@@ -1,4 +1,0 @@
-metric,value,unit,node_or_record,interpretation
-maximum_nodal_displacement_magnitude,5.93565937100715,mm,382,FRD nodal vector magnitude; verify mesh/BC/load before design use
-maximum_calculated_nodal_von_mises,244.06546709124993,MPa,251,"Calculated from FRD SXX,SYY,SZZ,SXY,SYZ,SZX; not ply failure criterion"
-maximum_absolute_SXX,255.201,MPa,251,FRD stress component; not necessarily a ply-local longitudinal stress
