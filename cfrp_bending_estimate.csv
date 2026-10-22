@@ -1,0 +1,6 @@
+Parameter,Value,Unit
+Total force,100.0000,N
+Distributed load,1000.000000,N/m
+Root moment,5.000000,N*m
+Effective rigidity,2.09329872,N*m^2
+Estimated tip deflection,5.971436,mm
